@@ -110,6 +110,10 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
+    lziapi: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod',
+        name: '影视工厂'
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
